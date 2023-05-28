@@ -53,3 +53,5 @@ Taking the examples of breast cancer
  sklearn.svm.SVC
 Support Vector Machines
 Sklearn = datset model dinxa hamle object banara tarain matra garni
+
+Channel to learn: StatQuest SVM
